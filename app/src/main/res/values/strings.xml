@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PublicHealth</string>
+
+    <string name="printer_ready">Printer ready now</string>
+    <string name="printer_no_paper">Printer has no paper please contact officer</string>
+    <string name="printer_error">Printer has something wrong please contact officer</string>
+    <string name="queue_date">วันที่ %1$s</string>
+</resources>

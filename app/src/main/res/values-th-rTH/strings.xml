@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PublicHealth</string>
+
+    <string name="printer_ready">เครื่องปรินท์พร้อมใช้งานแล้ว</string>
+    <string name="printer_no_paper">กระดาษหมด กรุณาติดต่อเจ้าหน้าที่</string>
+    <string name="printer_error">เครื่องปรินท์กำลังขัดข้อง กรุณาติดต่อเจ้าหน้าที่</string>
+    <string name="queue_date">วันที่ %1$s</string>
+</resources>
